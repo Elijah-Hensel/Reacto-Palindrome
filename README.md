@@ -94,4 +94,4 @@ function isPalRecursive(str){
 _Feel free to PR any useful resources! :)_
 
 * [Sample Slides](https://docs.google.com/presentation/d/1a9f6a8Kny25JsSwXCHjhaW7zTFj-_iixWiP7GWmBy_Q/edit?usp=sharing)
-* [AlgoExpert Link](https://www.algoexpert.io/questions/Palindrome%20Check)
+* [Leetcode Link](https://leetcode.com/problems/valid-palindrome/)
