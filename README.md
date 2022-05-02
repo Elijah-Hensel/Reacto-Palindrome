@@ -93,5 +93,5 @@ function isPalRecursive(str){
 ## Resources
 _Feel free to PR any useful resources! :)_
 
-* [Sample Slides](https://docs.google.com/presentation/d/1a9f6a8Kny25JsSwXCHjhaW7zTFj-_iixWiP7GWmBy_Q/edit?usp=sharing)
+* [Sample Slides](https://docs.google.com/presentation/d/1y3vNaW3uR1U96W_JdZtMA9vJvpccGtaHUF-yWwnS1EA/edit?usp=sharing)
 * [Leetcode Link](https://leetcode.com/problems/valid-palindrome/)
